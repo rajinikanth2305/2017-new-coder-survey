@@ -1,7 +1,7 @@
 # 2017-new-coder-survey
 contains a data set of 2017-new-coder-survey data and solution file where i analysed the two best markets to advertise in an e-learning product
 
-You can read more about this survey here, along with some survey statistics.
+You can link:https://medium.freecodecamp.org/take-the-2017-new-coder-survey-and-help-us-build-a-massive-public-dataset-8c808cbee7eb [read more about this survey here], along with some survey statistics.
 
 You can discuss this dataset in freeCodeCamp's Data Science Gitter chatroom.
 
